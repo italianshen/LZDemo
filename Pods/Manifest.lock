@@ -1,0 +1,16 @@
+PODS:
+  - YDCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - YDCategoryKit (from `Lib/YDCategoryKit`)
+
+EXTERNAL SOURCES:
+  YDCategoryKit:
+    :path: Lib/YDCategoryKit
+
+SPEC CHECKSUMS:
+  YDCategoryKit: 8ed6eb0c9b57f55caac5b13a578045760e7cbca3
+
+PODFILE CHECKSUM: 6940f54ba1d35b6462af17eb697e0b1102595003
+
+COCOAPODS: 1.10.2
